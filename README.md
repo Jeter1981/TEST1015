@@ -1,3 +1,6 @@
 # TEST1015
 TEST
-fffffff
+if(PWM > UPPWM*2)
+{
+  PWM = PWMMAX;
+ 				}
